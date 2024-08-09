@@ -22,7 +22,7 @@ Some of these are not relevant to SEO but I want to show everything as transpara
 
 - Added a meta tag `description` to the `index.html`'s `header` section.
 - Added a `title` tag to the `index.html`'s `header` section.
-- Added some copy to the `index.html` describing what PNGs and JPGs are and talk about converting to have more findable buzzwords on the website.
+- Added some copy to the `index.html` describing what PNGs and JPGs are and talk about converting to have more findable keywords on the website.
 
 ### Anything not directly related to code but part of the deployment (robots.txt, sitemap.xml, etc.)
 
