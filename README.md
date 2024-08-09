@@ -20,26 +20,25 @@ Some of these are not relevant to SEO but I want to show everything as transpara
 
 ### Anything directly related to code (html, css, js)
 
-1. Added a meta tag `description` to the `index.html`'s `header` section.
-2. Added a `title` tag to the `index.html`'s `header` section.
-3. Added some copy to the `index.html` describing what PNGs and JPGs are and talk about converting to have more findable buzzwords on the website.
+- Added a meta tag `description` to the `index.html`'s `header` section.
+- Added a `title` tag to the `index.html`'s `header` section.
+- Added some copy to the `index.html` describing what PNGs and JPGs are and talk about converting to have more findable buzzwords on the website.
 
 ### Anything not directly related to code but part of the deployment (robots.txt, sitemap.xml, etc.)
 
-1. Added a `robots.txt`: This doesn't have a direct effect on SEO but rather an indirect effect by focusing the crawling onto the important pages for bigger websites.
-2. Added a `sitemap.xml`: It tells the crawler about which pages exist on your website to make sure everything is covered.
-    - [What is it?](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)
-    - [Build and submit a sitemap.xml](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap)
+- Added a `robots.txt`: This doesn't have a direct effect on SEO but rather an indirect effect by focusing the crawling onto the important pages for bigger websites.
+- Added a `sitemap.xml`: It tells the crawler about which pages exist on your website to make sure everything is covered.
+  - [What is it?](https://developers.google.com/search/docs/crawling-indexing/sitemaps/overview)
+  - [Build and submit a sitemap.xml](https://developers.google.com/search/docs/crawling-indexing/sitemaps/build-sitemap)
 
 ### Anything that's not part of the repo (Google Search Console, etc.)
 
-1. Submitted the URL to Google Search Console:
-   - Go to https://search.google.com/search-console.
-   - Click on `Add property`.
-   - Add your URL.
-2. 
+- Submitted the URL to Google Search Console:
+  - Go to https://search.google.com/search-console.
+  - Click on `Add property`.
+  - Add your URL.
 
-## Next steps / Known issues
+## Next steps / Known issues / ideas
 
-1. [Not all pages indexed](https://github.com/DominicFrei/seo-case-study-png2jpg/issues/1)
-2. [sitemap.xml couldn't be fetched](https://github.com/DominicFrei/seo-case-study-png2jpg/issues/2)
+- [Not all pages indexed](https://github.com/DominicFrei/seo-case-study-png2jpg/issues/1)
+- [sitemap.xml couldn't be fetched](https://github.com/DominicFrei/seo-case-study-png2jpg/issues/2) 
