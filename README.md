@@ -1,4 +1,4 @@
-# SEO Case Study = png2jpg.co
+# SEO Case Study - png2jpg.co
 
 ## What is this repo about?
 
@@ -12,9 +12,9 @@ The goal: rank against the biggest competitor https://png2jpg.com/ and learn how
 
 Some of these are not relevant to SEO but I want to show everything as transparant as possible.
 
-Domain: AWS Route 53 (forwarding via a CNAME DNS entry to Vercel)
-Hosting: Vercel
-Deployment: automatically via Vercel GitHub actions
+- Domain: AWS Route 53 (forwarding via a CNAME DNS entry to Vercel)
+- Hosting: Vercel
+- Deployment: automatically via Vercel GitHub actions
 
 ## Steps I've taken so far (knowingly).
 
