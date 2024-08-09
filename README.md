@@ -41,5 +41,5 @@ Some of these are not relevant to SEO but I want to show everything as transpara
 
 ## Next steps / Known issues
 
-1. https://github.com/DominicFrei/seo-case-study-png2jpg/issues/1
-2. https://github.com/DominicFrei/seo-case-study-png2jpg/issues/2
+1. [Not all pages indexed](https://github.com/DominicFrei/seo-case-study-png2jpg/issues/1)
+2. [sitemap.xml couldn't be fetched](https://github.com/DominicFrei/seo-case-study-png2jpg/issues/2)
