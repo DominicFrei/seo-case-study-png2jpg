@@ -14,7 +14,7 @@ Some of these are not relevant to SEO but I want to show everything as transpara
 
 - Domain: AWS Route 53 (forwarding via a CNAME DNS entry to Vercel)
 - Hosting: Vercel
-- Deployment: automatically via Vercel GitHub actions
+- Deployment: automatically via Vercel GitHub actions from this repo.
 
 ## Steps I've taken so far (knowingly).
 
