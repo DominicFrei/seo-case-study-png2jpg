@@ -38,3 +38,11 @@ Some of these are not relevant to SEO but I want to show everything as transpara
    - Click on `Add property`.
    - Add your URL.
 2. 
+
+## Next steps / Known issues
+
+1. Pages not indexed: one page is not indexed right now, this is probably due to the forward from AWS Route 53 to Vercel:
+   ![image](https://github.com/user-attachments/assets/8bf36cad-2049-4271-a4e3-1a7b909c7cdf)
+2. Fetching the sitemap didn't work yet (reason unknown):
+   ![image](https://github.com/user-attachments/assets/1ac63efb-c9fb-491e-9364-d9d8392a4ffd)
+
